@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\source\\repos\\Frets\\Frets\\Frets\\Frets.csproj": {}
+    "C:\\Users\\David\\source\\repos\\Frets\\FretsApp\\FretsApp\\FretsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\source\\repos\\Frets\\Frets\\Frets\\Frets.csproj": {
+    "C:\\Users\\David\\source\\repos\\Frets\\FretsApp\\FretsApp\\FretsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\source\\repos\\Frets\\Frets\\Frets\\Frets.csproj",
-        "projectName": "Frets",
-        "projectPath": "C:\\Users\\David\\source\\repos\\Frets\\Frets\\Frets\\Frets.csproj",
+        "projectUniqueName": "C:\\Users\\David\\source\\repos\\Frets\\FretsApp\\FretsApp\\FretsApp.csproj",
+        "projectName": "FretsApp",
+        "projectPath": "C:\\Users\\David\\source\\repos\\Frets\\FretsApp\\FretsApp\\FretsApp.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\source\\repos\\Frets\\Frets\\Frets\\obj\\",
+        "outputPath": "C:\\Users\\David\\source\\repos\\Frets\\FretsApp\\FretsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Frets
+namespace FretsApp
 {
     /// <summary>
     /// Interaction logic for App.xaml
