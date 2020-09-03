@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FretsApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" WindowState="Maximized">
     <Grid>
-        <Image  HorizontalAlignment="Center" Stretch="UniformToFill" Height="424" VerticalAlignment="Top" Width="780" Source="/img/all-uke.jpg" Margin="0,10,0,0"/>
+        <Image HorizontalAlignment="Center" Stretch="UniformToFill" VerticalAlignment="Center"  Source="/img/all-uke.jpg" Margin="0,0,0,-200"/>
     </Grid>
 
 
