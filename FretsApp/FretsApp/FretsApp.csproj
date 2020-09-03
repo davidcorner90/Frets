@@ -6,4 +6,19 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Resouces\**" />
+    <EmbeddedResource Remove="Resouces\**" />
+    <None Remove="Resouces\**" />
+    <Page Remove="Resouces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="img\pic.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\pic.jpg" />
+  </ItemGroup>
+
 </Project>

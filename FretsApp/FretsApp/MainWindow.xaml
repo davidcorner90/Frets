@@ -7,8 +7,20 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\David\source\repos\UkeNotes\UkeNotes\img\all.jpg" Stretch="UniformToFill"/>
-        </Grid.Background>
+        <!--Grid.Background>
+            <Image>
+                <Image.Source>
+                    <BitmapImage  UriSource="../../img/pic.jpg" />
+                </Image.Source>
+            </Image>
+        </Grid.Background-->
     </Grid>
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>
+                <BitmapImage UriSource="../../img/pic.jpg"/>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+
 </Window>
