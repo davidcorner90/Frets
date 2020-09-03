@@ -7,14 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Grid.Background>
-            <ImageBrush Stretch="None">
-                <ImageBrush.ImageSource>
-                    <BitmapImage UriSource="../../img/pic.jpg"/>
-                </ImageBrush.ImageSource>
-            </ImageBrush>
-        </Grid.Background>
+        <Image  HorizontalAlignment="Center" Stretch="UniformToFill" Height="424" VerticalAlignment="Top" Width="780" Source="/img/all-uke.jpg" Margin="0,10,0,0"/>
     </Grid>
-    
+
 
 </Window>

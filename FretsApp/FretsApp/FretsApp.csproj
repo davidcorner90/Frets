@@ -14,11 +14,28 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="img\A-uke.jpg" />
+    <None Remove="img\all-uke.jpg" />
+    <None Remove="img\B-uke.jpg" />
+    <None Remove="img\C-uke.jpg" />
+    <None Remove="img\D-uke.jpg" />
+    <None Remove="img\E-uke.jpg" />
+    <None Remove="img\F-uke.jpg" />
+    <None Remove="img\G-uke.jpg" />
+    <None Remove="img\orig.jpg" />
     <None Remove="img\pic.jpg" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="img\pic.jpg" />
+    <Resource Include="img\A-uke.jpg" />
+    <Resource Include="img\all-uke.jpg" />
+    <Resource Include="img\B-uke.jpg" />
+    <Resource Include="img\C-uke.jpg" />
+    <Resource Include="img\D-uke.jpg" />
+    <Resource Include="img\E-uke.jpg" />
+    <Resource Include="img\F-uke.jpg" />
+    <Resource Include="img\G-uke.jpg" />
+    <Resource Include="img\orig.jpg" />
   </ItemGroup>
 
 </Project>

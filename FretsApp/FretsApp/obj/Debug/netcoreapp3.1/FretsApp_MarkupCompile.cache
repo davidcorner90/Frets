@@ -1,20 +1,20 @@
 ﻿FretsApp
-
+1.0.0.0
 
 winexe
 C#
 .cs
-C:\Users\David\source\repos\Frets\FretsApp\FretsApp\obj\Debug\netcoreapp3.1\
+c:\Users\David\source\repos\Frets\FretsApp\FretsApp\obj\Debug\netcoreapp3.1\
 FretsApp
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\David\source\repos\Frets\FretsApp\FretsApp\App.xaml
-11151548125
+c:\Users\David\source\repos\Frets\FretsApp\FretsApp\App.xaml
+1219584333
 
-3-917710711
-1921654412462
+51553385586
+192674553305
 MainWindow.xaml;
 
-False
+True
 
