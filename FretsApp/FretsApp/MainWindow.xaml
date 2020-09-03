@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\David\source\repos\UkeNotes\UkeNotes\img\all.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
     </Grid>
 </Window>
